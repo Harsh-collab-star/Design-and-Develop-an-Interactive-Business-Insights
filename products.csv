@@ -1,0 +1,151 @@
+ProductID,ProductName,Category,SubCategory,BaseCost,Markup
+1,Product 1,Office Supplies,Paper,594.53,0.21
+2,Product 2,Technology,Phones,542.98,0.63
+3,Product 3,Office Supplies,Labels,340.43,0.07
+4,Product 4,Technology,Accessories,406.76,0.07
+5,Product 5,Technology,Machines,180.25,0.43
+6,Product 6,Office Supplies,Binders,560.02,0.27
+7,Product 7,Technology,Accessories,765.98,0.27
+8,Product 8,Office Supplies,Art,81.89,0.6
+9,Product 9,Furniture,Chairs,585.14,0.4
+10,Product 10,Appliances,Kitchen,443.87,0.59
+11,Product 11,Furniture,Bookcases,157.87,0.1
+12,Product 12,Technology,Copiers,788.25,0.61
+13,Product 13,Office Supplies,Art,225.99,0.46
+14,Product 14,Furniture,Chairs,299.29,0.19
+15,Product 15,Furniture,Bookcases,749.64,0.47
+16,Product 16,Technology,Accessories,134.9,0.3
+17,Product 17,Technology,Copiers,675.07,0.55
+18,Product 18,Technology,Phones,645.01,0.31
+19,Product 19,Office Supplies,Binders,730.94,0.42
+20,Product 20,Furniture,Chairs,526.07,0.31
+21,Product 21,Appliances,Kitchen,215.58,0.21
+22,Product 22,Furniture,Bookcases,469.75,0.63
+23,Product 23,Appliances,Cleaning,179.36,0.7
+24,Product 24,Appliances,Kitchen,605.85,0.61
+25,Product 25,Technology,Accessories,634.7,0.32
+26,Product 26,Office Supplies,Art,308.39,0.7
+27,Product 27,Furniture,Bookcases,689.32,0.06
+28,Product 28,Office Supplies,Labels,601.95,0.55
+29,Product 29,Furniture,Chairs,238.33,0.15
+30,Product 30,Office Supplies,Storage,777.65,0.55
+31,Product 31,Office Supplies,Storage,674.13,0.38
+32,Product 32,Technology,Accessories,302.26,0.16
+33,Product 33,Office Supplies,Labels,262.7,0.06
+34,Product 34,Furniture,Tables,195.36,0.21
+35,Product 35,Office Supplies,Paper,586.87,0.58
+36,Product 36,Technology,Accessories,529.5,0.67
+37,Product 37,Technology,Copiers,424.5,0.44
+38,Product 38,Technology,Accessories,571.79,0.31
+39,Product 39,Furniture,Tables,720.19,0.34
+40,Product 40,Technology,Accessories,55.9,0.06
+41,Product 41,Technology,Accessories,10.72,0.51
+42,Product 42,Office Supplies,Binders,58.58,0.07
+43,Product 43,Furniture,Chairs,413.75,0.23
+44,Product 44,Appliances,Kitchen,433.69,0.52
+45,Product 45,Appliances,Kitchen,628.77,0.57
+46,Product 46,Technology,Phones,82.06,0.33
+47,Product 47,Appliances,Cleaning,376.28,0.52
+48,Product 48,Office Supplies,Paper,325.08,0.27
+49,Product 49,Office Supplies,Binders,157.31,0.4
+50,Product 50,Technology,Machines,150.87,0.35
+51,Product 51,Office Supplies,Art,647.38,0.61
+52,Product 52,Office Supplies,Paper,523.46,0.4
+53,Product 53,Office Supplies,Paper,741.46,0.6
+54,Product 54,Technology,Machines,391.08,0.19
+55,Product 55,Appliances,Kitchen,135.89,0.05
+56,Product 56,Appliances,Cleaning,741.58,0.56
+57,Product 57,Furniture,Tables,558.79,0.52
+58,Product 58,Appliances,Kitchen,155.97,0.19
+59,Product 59,Office Supplies,Labels,589.91,0.09
+60,Product 60,Furniture,Chairs,44.86,0.36
+61,Product 61,Technology,Phones,768.82,0.1
+62,Product 62,Technology,Phones,478.05,0.49
+63,Product 63,Technology,Machines,100.31,0.63
+64,Product 64,Technology,Phones,497.41,0.32
+65,Product 65,Furniture,Tables,167.39,0.52
+66,Product 66,Technology,Copiers,319.65,0.49
+67,Product 67,Furniture,Tables,256.36,0.54
+68,Product 68,Office Supplies,Paper,369.34,0.7
+69,Product 69,Office Supplies,Paper,432.42,0.38
+70,Product 70,Technology,Copiers,705.29,0.62
+71,Product 71,Furniture,Tables,130.41,0.59
+72,Product 72,Furniture,Bookcases,787.16,0.57
+73,Product 73,Office Supplies,Labels,243.01,0.48
+74,Product 74,Technology,Copiers,96.77,0.12
+75,Product 75,Technology,Copiers,229.0,0.19
+76,Product 76,Furniture,Chairs,551.56,0.6
+77,Product 77,Appliances,Cleaning,724.74,0.6
+78,Product 78,Office Supplies,Art,664.33,0.08
+79,Product 79,Furniture,Chairs,511.51,0.22
+80,Product 80,Appliances,Cleaning,450.92,0.12
+81,Product 81,Technology,Phones,668.5,0.43
+82,Product 82,Technology,Machines,106.32,0.25
+83,Product 83,Office Supplies,Storage,172.01,0.21
+84,Product 84,Office Supplies,Storage,625.19,0.62
+85,Product 85,Appliances,Kitchen,740.98,0.2
+86,Product 86,Technology,Accessories,705.73,0.07
+87,Product 87,Furniture,Tables,642.78,0.61
+88,Product 88,Technology,Copiers,131.56,0.51
+89,Product 89,Appliances,Kitchen,687.58,0.19
+90,Product 90,Appliances,Cleaning,247.63,0.57
+91,Product 91,Technology,Accessories,23.81,0.18
+92,Product 92,Furniture,Tables,692.16,0.68
+93,Product 93,Furniture,Tables,514.98,0.31
+94,Product 94,Furniture,Chairs,96.7,0.68
+95,Product 95,Technology,Copiers,35.41,0.44
+96,Product 96,Furniture,Bookcases,630.21,0.33
+97,Product 97,Office Supplies,Art,720.11,0.17
+98,Product 98,Office Supplies,Art,6.34,0.65
+99,Product 99,Technology,Copiers,347.88,0.67
+100,Product 100,Furniture,Bookcases,254.56,0.6
+101,Product 101,Furniture,Bookcases,250.88,0.32
+102,Product 102,Appliances,Cleaning,445.76,0.17
+103,Product 103,Appliances,Kitchen,494.33,0.25
+104,Product 104,Office Supplies,Storage,233.1,0.33
+105,Product 105,Furniture,Tables,356.22,0.49
+106,Product 106,Appliances,Kitchen,528.79,0.23
+107,Product 107,Furniture,Chairs,655.65,0.54
+108,Product 108,Furniture,Chairs,646.22,0.15
+109,Product 109,Office Supplies,Binders,787.23,0.45
+110,Product 110,Office Supplies,Art,334.48,0.46
+111,Product 111,Technology,Machines,398.03,0.21
+112,Product 112,Office Supplies,Paper,623.84,0.19
+113,Product 113,Appliances,Kitchen,448.14,0.65
+114,Product 114,Office Supplies,Art,111.0,0.35
+115,Product 115,Furniture,Tables,492.06,0.52
+116,Product 116,Appliances,Cleaning,718.28,0.53
+117,Product 117,Appliances,Cleaning,211.06,0.21
+118,Product 118,Furniture,Bookcases,390.25,0.21
+119,Product 119,Appliances,Kitchen,572.27,0.2
+120,Product 120,Furniture,Tables,714.96,0.1
+121,Product 121,Technology,Accessories,309.51,0.15
+122,Product 122,Technology,Phones,334.82,0.27
+123,Product 123,Appliances,Cleaning,54.5,0.59
+124,Product 124,Appliances,Kitchen,686.1,0.55
+125,Product 125,Appliances,Cleaning,9.69,0.28
+126,Product 126,Appliances,Cleaning,432.89,0.53
+127,Product 127,Technology,Machines,179.44,0.33
+128,Product 128,Office Supplies,Art,272.22,0.49
+129,Product 129,Appliances,Kitchen,673.2,0.65
+130,Product 130,Office Supplies,Art,475.55,0.48
+131,Product 131,Office Supplies,Art,112.88,0.35
+132,Product 132,Office Supplies,Storage,306.39,0.19
+133,Product 133,Furniture,Tables,610.18,0.3
+134,Product 134,Appliances,Cleaning,668.75,0.36
+135,Product 135,Office Supplies,Storage,183.26,0.09
+136,Product 136,Office Supplies,Paper,759.94,0.18
+137,Product 137,Office Supplies,Labels,126.14,0.13
+138,Product 138,Office Supplies,Labels,758.47,0.35
+139,Product 139,Furniture,Tables,138.39,0.44
+140,Product 140,Office Supplies,Binders,771.95,0.12
+141,Product 141,Office Supplies,Storage,462.76,0.64
+142,Product 142,Appliances,Cleaning,753.47,0.18
+143,Product 143,Technology,Phones,559.27,0.25
+144,Product 144,Office Supplies,Labels,627.2,0.28
+145,Product 145,Appliances,Cleaning,59.82,0.47
+146,Product 146,Office Supplies,Art,658.75,0.12
+147,Product 147,Furniture,Bookcases,713.8,0.35
+148,Product 148,Technology,Machines,145.03,0.39
+149,Product 149,Furniture,Bookcases,647.52,0.4
+150,Product 150,Appliances,Cleaning,351.28,0.53
